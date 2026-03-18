@@ -3,7 +3,7 @@ Rozhodl jsem se vytvořit aplikaci pro přehlednou správu vybavení v rámci fi
 
 
 
-         Co aplikace umí (možnosti uživatele)
+Co aplikace umí (možnosti uživatele)
 Při návrhu jsem se zaměřil na to, aby práce s daty byla co nejjednodušší:
 
 Organizace prostoru: V systému si můžu vytvořit mapu budov a jednotlivých kanceláří (místností). Každá místnost logicky patří do konkrétní budovy.
